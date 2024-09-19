@@ -79,6 +79,27 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
+  - position: ISSRE'24 Artifact Reviewer
+    date_start: 2024-08-01
+    date_end: 2024-09-06
+  - position: ATC'24 Artifact Reviewer
+    date_start: 2024-04-01
+    date_end: 2024-05-06
+  - position: OSDI'24 Artifact Reviewer
+    date_start: 2024-04-01
+    date_end: 2024-05-06
+  - position: TOSEM'24 Reviewer
+    date_start: 2024-03-01
+    date_end: 2024-04-06
+  - position: ISSTA'24 Artifact Reviewer
+    date_start: 2024-01-01
+    date_end: 2024-02-06
+  - position: ECOOP'24, Extended Reviewer and Artifact Reviewer
+    date_start: 2023-12-01
+    date_end: 2024-01-30
+  - position: TACAS'24 Artifact Reviewer
+    date_start: 2023-12-01
+    date_end: 2023-12-31
   - position: Backend Software Engineer
     company_name: Shopee Pte. Ltd.
     company_url: "https://shopee.com/"
@@ -132,18 +153,24 @@ languages:
   - name: Chinese
     percent: 100
 
+
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: Distinguished Artifact Reviewer Award
+    url:
+    date: "2024-09-17"
+    awarder: ECOOP
+    summary: |
+       4 reviewers (out of 61) whose reviews and contributions to the discussions stood out and to whom we would like to present a Distinguished Artifact Reviewer award.
   - title: Distinguished Paper Award of Industry Challenge Track
     url:
     date: "2023-09-13"
-    awarder: IEEE
-    icon: ieee
-    summary: |
-      I studied the foundational concept of neural networks and deep learning. By the end, I was familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks; implement efficient (vectorized) neural networks; identify key parameters in a neural network’s architecture; and apply deep learning to your own applications.
+    awarder: ASE
+    # icon: ieee
+
 ---
 
 ## About Me
