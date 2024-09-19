@@ -20,7 +20,7 @@ date: 2024-04-16T20:14:20+08:00
 lastmod: 2024-04-16T20:14:20+08:00
 featured: false
 draft: false
-url_pdf: "publication/ICSE24/grev.pdf"
+url_pdf: "publication/icse24/grev.pdf"
 url_code: "https://github.com/CUHK-SE-Group/GRev"
 # publication_types: ["1"]
 
