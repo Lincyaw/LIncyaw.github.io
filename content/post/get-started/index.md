@@ -1,5 +1,5 @@
 ---
-title: 🎉 Recieved ECOOP'24 Distinguished Artifact Award! 
+title: 🎉 Recieved ECOOP'24 Distinguished Artifact Reviewer Award! 
 summary: " "
 date: 2024-09-17
 
