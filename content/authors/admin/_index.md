@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: PhD Candidate
+role: PhD Student
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -175,6 +175,6 @@ awards:
 
 ## About Me
 
-I graduated with a bachelor’s degree from Harbin Institute of Technology (Shenzhen) and am currently an MPhil candidate in Software Engineering at The Chinese University of Hong Kong, Shenzhen (CUHK(SZ)) and fortunate to be advised by [Prof. Pinjia He](https://pinjiahe.github.io/).
+I graduated with a bachelor’s degree from Harbin Institute of Technology (Shenzhen) and am currently a PhD student in Software Engineering at The Chinese University of Hong Kong, Shenzhen (CUHK(SZ)) and fortunate to be advised by [Prof. Pinjia He](https://pinjiahe.github.io/).
 
 My research centers on software testing, with a special focus on fuzz testing as well as AIops. I’m dedicated to advancing software reliability, security and observerability through innovative testing and monitoring methodologies. I warmly welcome collaborations and discussions in this domain.
