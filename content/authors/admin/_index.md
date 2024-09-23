@@ -79,6 +79,9 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
 work:
+  - position: TACAS'25 Artifact Reviewer
+    date_start: 2024-09-23
+    date_end: 2025-02-17
   - position: ISSRE'24 Artifact Reviewer
     date_start: 2024-08-01
     date_end: 2024-09-06
