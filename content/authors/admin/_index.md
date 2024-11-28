@@ -78,7 +78,10 @@ education:
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
     #   - lorem ipsum dolor sit amet, consectetur adipiscing elit
-work:
+work:  
+  - position: USENIX Security '25 Cycle-1 Artifact Reviewer
+    date_start: 2024-11-26
+    date_end: 2025-04-03
   - position: TACAS'25 Artifact Reviewer
     date_start: 2024-09-23
     date_end: 2025-02-17
