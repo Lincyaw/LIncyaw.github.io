@@ -6,7 +6,7 @@ subtitle: ""
 summary: ""
 authors:
   - Qiuyang Mang
-  - Aoyang Fang
+  - Aoyang Fang (co-first author)
   - Boxi Yu
   - Hanfei Chen
   - Pinjia He
